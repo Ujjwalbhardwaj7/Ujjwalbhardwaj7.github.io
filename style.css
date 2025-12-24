@@ -1,8 +1,4 @@
 
-/*
-https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936311_.png
-*/
-
 * {
     box-sizing: border-box;
 }
@@ -410,7 +406,7 @@ body {
     background-color: rgba(213, 247, 247,0.4);
 }
 .card-product-container{
-    padding: 20px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
 
